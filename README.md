@@ -11,3 +11,4 @@ More errors on the MERN project have been fixed, but i will continue till they a
 
 MAY 03
 New day, same grind!!
+80% of client side errors have been resolved.
