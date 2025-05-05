@@ -14,7 +14,8 @@ New day, same grind!!
 80% of client side errors have been resolved.
 
 MAY 04
-Sunda,chill day
+Sunday,chill day
 Putting in light work.
 
 MAY 05
+New week, new day, same grind!
