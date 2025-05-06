@@ -20,3 +20,5 @@ Putting in light work.
 MAY 05
 New week, new day, same grind!
 Back to working on the MERN APP.
+
+MAY 06
