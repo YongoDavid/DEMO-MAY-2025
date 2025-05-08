@@ -29,4 +29,5 @@ MAY 07
 New day, same grind.
 
 MAY 08
-NNew day, same grind.
+New day, same grind.
+More erors getting fixed
