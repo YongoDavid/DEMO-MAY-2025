@@ -34,3 +34,4 @@ More erors getting fixed
 
 MAY 10
 Some incidents are just out of control and that is what the yesterday and today was.
+No internet service for a whole day plus, and i wasnt able to commit anything.
