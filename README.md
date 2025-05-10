@@ -33,4 +33,4 @@ New day, same grind.
 More erors getting fixed
 
 MAY 10
-
+Some incidents are just out of control and that is what the yesterday and today was.
