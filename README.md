@@ -55,3 +55,4 @@ New day, same grid!!
 
 MAY 16
 New day, same grind!!
+Still fixing some major errors with the MERN APP
