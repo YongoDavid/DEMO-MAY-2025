@@ -61,4 +61,4 @@ MAY 17
 New day, same grind!!
 
 MAY 18
-
+Sunday, chill dayy.
