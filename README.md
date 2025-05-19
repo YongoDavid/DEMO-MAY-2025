@@ -65,3 +65,4 @@ Sunday, chill dayy.
 Still putting in light work.
 
 MAY 19
+New week,new day, same grind!
