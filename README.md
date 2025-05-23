@@ -73,5 +73,5 @@ New day, same grind
 MAY 21
 New day, same grind.
 
-MAY 22
-
+MAY 23
+New day, same grind!!
