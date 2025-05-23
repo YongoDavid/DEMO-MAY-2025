@@ -79,3 +79,4 @@ Hosted the dashboard project.
 
 MAY 24
 New dayy, same grind!!
+Working on the Chat application.
