@@ -82,4 +82,4 @@ New dayy, same grind!!
 Working on the Chat application.
 
 MAY 25
-
+Suday, light work.
