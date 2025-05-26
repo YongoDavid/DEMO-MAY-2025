@@ -88,4 +88,4 @@ MAY 26
 New week, new day, same grind.
 
 MAY 27
-
+New day, same grind.
