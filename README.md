@@ -91,3 +91,4 @@ MAY 27
 New day, same grind.
 Still on chatapp V2.
 
+MAY 28
