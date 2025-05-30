@@ -100,4 +100,4 @@ ChatApp v2 hosted and completed.
 
 MAY 30
 New day, same grind.
-
+Dashboard and Chat App v2 project finally complete.
