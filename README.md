@@ -104,3 +104,4 @@ Dashboard and Chat App v2 project finally complete.
 
 MAY 31
 Last day of the month, so far this month has been good, life and uncontrolable events happned but i still put in work.
+The structure i put in place really helped and i will continue.
