@@ -103,4 +103,4 @@ New day, same grind.
 Dashboard and Chat App v2 project finally complete.
 
 MAY 31
-
+Last day of the month, so far this month has been good, life and uncontrolable events happned but i still put in work.
